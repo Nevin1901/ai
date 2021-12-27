@@ -1,4 +1,5 @@
 ## Ai
 
-[Dogs and Cats (Actually Linear Regression)](./Dogs and Cats.ipynb)
+[Dataset Diabetes](./Dataset Diabetes)
+[Dogs and Cats - Linear Regression](./Dogs and Cats.ipynb)
 [Stochastic Gradient](./notebook.ipynb)
