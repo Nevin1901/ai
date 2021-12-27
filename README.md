@@ -1,6 +1,6 @@
 ## Ai
 
-### [Dataset Diabetes](./Dataset#32;Diabetes)
+### [Dataset Diabetes](./Dataset%20Diabetes.ipynb)
 
 Linear Regression on one feature of the Diabetes Dataset - around 68% correlation
 
