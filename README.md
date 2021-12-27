@@ -4,7 +4,7 @@
 
 Linear Regression on one feature of the Diabetes Dataset - around 68% correlation
 
-### [Dogs and Cats - Linear Regression](./Dogs%20and%20Cats.ipynb)
+### [Linear Regression](./Linear%20Regression.ipynb)
 
 Just some tests on Linear Regression with my own data
 
