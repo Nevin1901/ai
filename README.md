@@ -1,5 +1,9 @@
 ## Ai
 
+### [LDA](./LDA.ipynb)
+
+An example of LDA by a number classifier
+
 ### [Dataset Diabetes](./Dataset%20Diabetes.ipynb)
 
 Linear Regression on one feature of the Diabetes Dataset - around 68% correlation
